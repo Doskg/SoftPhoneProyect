@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .softphone {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .display {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .caller-info {
+    margin-bottom: 10px;
+  }
+  
+  .caller-name {
+    font-weight: bold;
+  }
+  
+  .controls {
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .btn-answer {
+    background-color: #2ecc71;
+    color: #fff;
+  }
+  
+  .btn-hangup {
+    background-color: #e74c3c;
+    color: #fff;
+  }
